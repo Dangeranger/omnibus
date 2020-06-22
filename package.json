@@ -1,0 +1,10 @@
+{
+  "name": "omnibus",
+  "version": "1.0.0",
+  "description": "A collection of links, notes, and thoughts related to programming resources and techniques.",
+  "main": "index.js",
+  "repository": "git@github.com:Dangeranger/omnibus.git",
+  "author": "Joshua Burke <burke.joshua.james@gmail.com>",
+  "license": "CC-BY-SA-4.0",
+  "private": true
+}
