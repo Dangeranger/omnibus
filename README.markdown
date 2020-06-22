@@ -75,6 +75,10 @@ The list of topics below organizes the links into groups based on their primary 
 ##### Testing Library
 - https://testing-library.com/docs/dom-testing-library/setup
 
+##### Testing Playground
+- https://testing-playground.com/
+- https://github.com/testing-library/testing-playground
+
 ### NodeJS
 
 #### Courses
